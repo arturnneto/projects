@@ -1,0 +1,1 @@
+In this project, the challenge was to create a Netflix clone. I chose to create a similar website but with trailers instead of movies and series.

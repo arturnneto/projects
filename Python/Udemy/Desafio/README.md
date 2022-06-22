@@ -1,0 +1,1 @@
+# Those are small challenges proposed in a Python course in Udemy, using simple and small codes, very suited for begginers.
